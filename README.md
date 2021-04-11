@@ -606,4 +606,6 @@ for循环的range形式可遍历切片或映射。
 
 # 十二、问题排查
 # 十三、Golang面试
+## [Golang面试心得](https://juejin.cn/post/6912993974709911565)
+
 
